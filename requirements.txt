@@ -1,0 +1,13 @@
+langchain
+streamlit
+langchain-core
+langchain-ollama
+faiss-cpu
+langchain
+streamlit
+langchain-core
+langchain-ollama
+langchain-community
+faiss-cpu
+pypdf
+dotenv
